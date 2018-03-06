@@ -1,0 +1,8 @@
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\bin\Calcu.dll.config
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\bin\Calcu.dll
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\bin\Calcu.pdb
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\obj\Debug\Calculadora12.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\obj\Debug\Calcu.dll
+C:\Users\Unicomfacauca\Desktop\Calcu\Calcu\obj\Debug\Calcu.pdb

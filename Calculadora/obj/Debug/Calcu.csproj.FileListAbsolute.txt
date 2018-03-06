@@ -1,0 +1,9 @@
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\bin\Calcu.dll.config
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\bin\Calcu.dll
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\bin\Calcu.pdb
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\obj\Debug\Calcu.csprojResolveAssemblyReference.cache
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\obj\Debug\Calcu.csproj.CoreCompileInputs.cache
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\obj\Debug\Calcu.dll
+c:\users\unicomfacauca\source\repos\Calcu\Calcu\obj\Debug\Calcu.pdb
